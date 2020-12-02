@@ -1,4 +1,4 @@
-<h2 align="center"> ✨ Hi, I'm Celia! ✨</h2>
+<h2 align="center">✨ Hi, I'm Celia! ✨</h2>
 
 <p align="center">I am a <b>Translator</b> transitioning to <b>Front-End Developer</b> after a life-changing bootcamp at @adalab.</p>
 
@@ -14,12 +14,13 @@
 <img height="22px" src="https://raw.githubusercontent.com/file-icons/DevOpicons/2c2bf2bdb6507b8e4bfe695c1d54d639fbfed479/svg/gulp.svg" alt="Gulp logo"/> 
 <img height="23.5x" src="https://raw.githubusercontent.com/DiemenDesign/LibreICONS/2d2172d15e3c6ca03c018629d60050e4b99e5c55/svg/libre-brand-adobe-indesign.svg" alt="Indesign logo"/></p>
 
-<p align="center">I am also:</p>
-<p align="center">Passionately learning new cool dev things || A good communicator || VERY organized</p>
+<p align="center">I am also:<br>
+Passionately learning new cool dev things || A good communicator || VERY organized</p>
 
-<p align="center">I like:</p>
+<p align="center">I like:<br>
+Good books & spicy food || <a href="https://www.youtube.com/watch?v=LJ25-U3jNWM&ab_channel=AaronOverfield" target="_blank">Nina Simone</a> & <a href="https://www.youtube.com/watch?v=beuRgIqxTnY&ab_channel=LilaDownsVEVO" target="_blank">Lila Downs</a> || Exploring the globe</p>
 
-<p align="center">Good books & spicy food || <a href="https://www.youtube.com/watch?v=LJ25-U3jNWM&ab_channel=AaronOverfield" target="_blank">Nina Simone</a> & <a href="https://www.youtube.com/watch?v=beuRgIqxTnY&ab_channel=LilaDownsVEVO" target="_blank">Lila Downs</a> || Exploring the globe</p>
+<p align="center"></p>
 
 <p align="center">New nice projects to come soon!</p>
 <hr>

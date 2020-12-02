@@ -22,7 +22,6 @@ Good books & spicy food || <a href="https://www.youtube.com/watch?v=LJ25-U3jNWM&
 
 <p align="center"></p>
 
-<p align="center">New nice projects to come soon!</p>
 <hr>
 <h3 align="center">Find me on:<h3>
 <p align="center"><a href="mailto:celiamartinfern@gmail.com"><img height="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/e7196ea808b9adf28b75b4ad49419905c134ab56/icons/gmail.svg" alt="Gmail logo"/></a>

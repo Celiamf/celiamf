@@ -5,14 +5,14 @@
 <p align="center">I use:</p>
 
 <p align="center">
-<img height="22px" src="https://raw.githubusercontent.com/getoutreach/stacked/765ad15f5833ef349c9952a7853a47beb37682e8/svg_variable/html5-lockup.svg" alt="HTML5 logo"/>
-<img height="22px" src="https://raw.githubusercontent.com/getoutreach/stacked/765ad15f5833ef349c9952a7853a47beb37682e8/svg_variable/css3-lockup.svg" alt="CSS logo"/>
-<img height="23.5px" src="https://raw.githubusercontent.com/hwkr/BitIcon/13fa86bc682cc80fc23923c9f1c2ac9b0bac6e57/svg/sass-sq.svg" alt="SASS logo"/>
-<img height="22px" src="https://raw.githubusercontent.com/file-icons/MFixx/9bc4e3734898a07d3ff1b452f90446368d6baf12/svg/javascript-alt.svg" alt="JavaScript logo"/>
-<img height="22px" src="https://raw.githubusercontent.com/fizzed/font-mfizz/ccff3ec9555918c0a67ed6b5f360af5841045e3e/src/svg/reactjs.svg" alt="React logo"/>
-<img height="22px" src="https://raw.githubusercontent.com/file-icons/DevOpicons/2c2bf2bdb6507b8e4bfe695c1d54d639fbfed479/svg/git.svg" alt="Git logo"/>
-<img height="22px" src="https://raw.githubusercontent.com/file-icons/DevOpicons/2c2bf2bdb6507b8e4bfe695c1d54d639fbfed479/svg/gulp.svg" alt="Gulp logo"/> 
-<img height="23.5x" src="https://raw.githubusercontent.com/DiemenDesign/LibreICONS/2d2172d15e3c6ca03c018629d60050e4b99e5c55/svg/libre-brand-adobe-indesign.svg" alt="Indesign logo"/></p>
+<img height="23px" src="https://raw.githubusercontent.com/getoutreach/stacked/765ad15f5833ef349c9952a7853a47beb37682e8/svg_variable/html5-lockup.svg" alt="HTML5 logo"/>
+<img height="23px" src="https://raw.githubusercontent.com/getoutreach/stacked/765ad15f5833ef349c9952a7853a47beb37682e8/svg_variable/css3-lockup.svg" alt="CSS logo"/>
+<img height="24.5px" src="https://raw.githubusercontent.com/hwkr/BitIcon/13fa86bc682cc80fc23923c9f1c2ac9b0bac6e57/svg/sass-sq.svg" alt="SASS logo"/>
+<img height="23px" src="https://raw.githubusercontent.com/file-icons/MFixx/9bc4e3734898a07d3ff1b452f90446368d6baf12/svg/javascript-alt.svg" alt="JavaScript logo"/>
+<img height="23px" src="https://raw.githubusercontent.com/fizzed/font-mfizz/ccff3ec9555918c0a67ed6b5f360af5841045e3e/src/svg/reactjs.svg" alt="React logo"/>
+<img height="23px" src="https://raw.githubusercontent.com/file-icons/DevOpicons/2c2bf2bdb6507b8e4bfe695c1d54d639fbfed479/svg/git.svg" alt="Git logo"/>
+<img height="23px" src="https://raw.githubusercontent.com/file-icons/DevOpicons/2c2bf2bdb6507b8e4bfe695c1d54d639fbfed479/svg/gulp.svg" alt="Gulp logo"/> 
+<img height="24.5x" src="https://raw.githubusercontent.com/DiemenDesign/LibreICONS/2d2172d15e3c6ca03c018629d60050e4b99e5c55/svg/libre-brand-adobe-indesign.svg" alt="Indesign logo"/></p>
 
 <p align="center">I am also:<br>
 Passionately learning new cool dev things || A good communicator || VERY organized</p>

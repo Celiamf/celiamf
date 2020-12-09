@@ -1,4 +1,4 @@
-<h2 align="center">✨ Hi, I'm Celia! ✨</h2>
+<h2 align="center">✨ Hola, I'm Celia! ✨</h2>
 
 <p align="center">I am a <b>Translator</b> transitioning to <b>Front-End Developer</b> after a life-changing bootcamp at <a href="https://github.com/Adalab">@adalab</a>.</p>
 

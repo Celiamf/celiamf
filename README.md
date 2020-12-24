@@ -1,6 +1,6 @@
 <h2 align="center">✨ Hola, I'm Celia! ✨</h2>
 
-<p align="center">I am a <b>Translator</b> transitioning to <b>Front-End Developer</b> after a life-changing bootcamp at <a href="https://github.com/Adalab">@adalab</a>.</p>
+<p align="center">I am a <b>linguist</b> transitioning to <b>Front-End Developer</b> after a life-changing bootcamp at <a href="https://github.com/Adalab">@adalab</a>.</p>
 
 <p align="center">I use:</p>
 

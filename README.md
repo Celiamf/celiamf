@@ -15,7 +15,7 @@
 <img height="24.5x" src="https://raw.githubusercontent.com/DiemenDesign/LibreICONS/2d2172d15e3c6ca03c018629d60050e4b99e5c55/svg/libre-brand-adobe-indesign.svg" alt="Indesign logo"/></p>
 
 <p align="center">I am also:<br>
-Passionately <b>learning new cool dev things</b> || A good <b>communicator</b> || VERY <b>organized</b></p>
+<b>Learning new dev things non-stop</b> || A good <b>communicator</b> || VERY <b>organized</b></p>
 
 <p align="center">I like:<br>
 Good books & spicy food || <a href="https://www.youtube.com/watch?v=LJ25-U3jNWM&ab_channel=AaronOverfield" target="_blank">Nina Simone</a> & <a href="https://www.youtube.com/watch?v=beuRgIqxTnY&ab_channel=LilaDownsVEVO" target="_blank">Lila Downs</a> || Exploring the globe</p>

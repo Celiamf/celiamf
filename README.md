@@ -18,7 +18,7 @@
 <b>Learning new dev things non-stop</b> || A good <b>communicator</b> || VERY <b>organized</b></p>
 
 <p align="center">I like:<br>
-Good books & spicy food || <a href="https://www.youtube.com/watch?v=LJ25-U3jNWM&ab_channel=AaronOverfield" target="_blank">Nina Simone</a> & <a href="https://www.youtube.com/watch?v=beuRgIqxTnY&ab_channel=LilaDownsVEVO" target="_blank">Lila Downs</a> || Exploring the globe</p>
+Good books & spicy food || <a href="https://www.youtube.com/watch?v=LJ25-U3jNWM&ab_channel=AaronOverfield" target="_blank">Nina Simone</a> || Exploring the globe</p>
 
 <p align="center"></p>
 

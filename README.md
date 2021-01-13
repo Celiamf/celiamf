@@ -26,4 +26,4 @@ Good books & spicy food || <a href="https://www.youtube.com/watch?v=LJ25-U3jNWM&
 <h3 align="center">Find me on:<h3>
 <p align="center"><a href="mailto:celiamartinfern@gmail.com"><img height="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/e7196ea808b9adf28b75b4ad49419905c134ab56/icons/gmail.svg" alt="Gmail logo"/></a>
 <a href="https://www.linkedin.com/in/celiamf/"><img height="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/57f1632d7303fbcd8974425882ffd9919fc4041b/svgs/brands/linkedin.svg" alt="LinkedIn logo"/></a>
-<a href="https://www.linkedin.com/in/celiamf/"><img height="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/57f1632d7303fbcd8974425882ffd9919fc4041b/svgs/brands/twitter-square.svg" alt="Twitter logo"/></a></p>
+<a href="https://twitter.com/celmrt"><img height="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/57f1632d7303fbcd8974425882ffd9919fc4041b/svgs/brands/twitter-square.svg" alt="Twitter logo"/></a></p>

@@ -1,6 +1,6 @@
 <h2 align="center">✨ Hola, I'm Celia! ✨</h2>
 
-<p align="center">I am a <b>Front-End Developer</b> willing to change the world by coding.</p>
+<p align="center">I am a <b>Front-End Developer</b> contributing to change the world by coding.</p>
 
 <p align="center">I use:</p>
 
@@ -12,7 +12,7 @@
 <img height="24.5px" src="./img/sass.svg" alt="SASS logo"/>
 <img height="23px" src="./img/git.svg" alt="Git logo"/>
 <img height="24.5x" src="./img/indesign.svg" alt="Indesign logo"/>
-<img height="24.5x" src="./img/figma.svg" alt="Figma logo"/> <span> <b>JavaScript | React | HTML | CSS | SASS | Git | InDesign | Figma</span></div>
+<img height="24.5x" src="./img/figma.svg" alt="Figma logo"/> <br> <b>JavaScript | React | HTML | CSS | SASS | Git | InDesign | Figma</b></div>
 
 <p align="center">I am also:<br>
 <b>Learning new dev things non-stop</b> || A good <b>communicator</b> || VERY <b>organized</b></p>

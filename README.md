@@ -1,10 +1,10 @@
 <h2 align="center">✨ Hola, I'm Celia! ✨</h2>
 
-<p align="center">I am a <b>linguist</b> transitioning to <b>Front-End Developer</b> after a life-changing bootcamp at <a href="https://github.com/Adalab">@adalab</a>.</p>
+<p align="center">I am a <b>Front-End Developer</b> willing to change the world by coding.</p>
 
 <p align="center">I use:</p>
 
-<p align="center">
+<div align="center">
 <img height="23px" src="./img/javascript.svg" alt="JavaScript logo"/>
 <img height="23px" src="./img/reactjs.svg" alt="React logo"/>
 <img height="23px" src="./img/html.svg" alt="HTML5 logo"/>
@@ -12,7 +12,7 @@
 <img height="24.5px" src="./img/sass.svg" alt="SASS logo"/>
 <img height="23px" src="./img/git.svg" alt="Git logo"/>
 <img height="24.5x" src="./img/indesign.svg" alt="Indesign logo"/>
-<img height="24.5x" src="./img/figma.svg" alt="Figma logo"/> <br> <b>JavaScript | React | HTML | CSS | SASS | Git | InDesign | Figma</b></p>
+<img height="24.5x" src="./img/figma.svg" alt="Figma logo"/> <span> <b>JavaScript | React | HTML | CSS | SASS | Git | InDesign | Figma</span></div>
 
 <p align="center">I am also:<br>
 <b>Learning new dev things non-stop</b> || A good <b>communicator</b> || VERY <b>organized</b></p>

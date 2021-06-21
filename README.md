@@ -11,11 +11,12 @@
 <img height="23px" src="./img/css.svg" alt="CSS logo"/>
 <img height="24.5px" src="./img/sass.svg" alt="SASS logo"/>
 <img height="23px" src="./img/git.svg" alt="Git logo"/>
-<img height="24.5x" src="./img/indesign.svg" alt="Indesign logo"/>
-<img height="24.5x" src="./img/figma.svg" alt="Figma logo"/> <br> <b>JavaScript | React | HTML | CSS | SASS | Git | InDesign | Figma</b></div>
+
+<img height="24.5x" src="./img/figma.svg" alt="Figma logo"/> 
+<img height="24.5x" src="./img/indesign.svg" alt="Indesign logo"/> <br> <b>JavaScript | React | HTML | CSS | SASS | Git | Figma | InDesign </b></div>
 <p align="center"></p>
 <p align="center" margin-top="24px">I am also:<br>
-<b>Learning new dev things non-stop</b> || A good <b>communicator</b> || VERY <b>organized</b></p>
+<b>Learning new things non-stop</b> || A good <b>communicator</b> || VERY <b>organized</b></p>
 
 <p align="center">I like:<br>
 Good books & spicy food || Nina Simone || Adventuring</p>

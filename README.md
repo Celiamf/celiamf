@@ -19,7 +19,7 @@
 <b>Learning new things non-stop</b> || A good <b>communicator</b> || VERY <b>organized</b></p>
 
 <p align="center">I like:<br>
-Good books & spicy food || Nina Simone || Adventuring</p>
+Good books & spicy food || Nina Simone || Travelling</p>
 
 <p align="center"></p>
 

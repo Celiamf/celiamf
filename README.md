@@ -25,7 +25,6 @@ Good books & spicy food || Nina Simone || Travelling</p>
 
 <hr>
 <h3 align="center">Find me on:<h3>
-<p align="center"><a href="mailto:celiamartinfern@gmail.com"><img height="22px" src="./img/gmail.svg" alt="Gmail logo"/></a>
 <a href="https://www.linkedin.com/in/celiamf/"><img height="22px" src="./img/linkedin.svg" alt="LinkedIn logo"/></a>
 <a href="https://twitter.com/celmrt"><img height="22px" src="./img/twitter.svg" alt="Twitter logo"/></a>
 <a href="https://codepen.io/Celiamf"><img height="22px" src="./img/codepen.svg" alt="Codepen logo"/></a></p>

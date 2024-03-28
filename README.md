@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hola, I'm Celia! ✨</h1>
 
-<p align="center">I am a <b>Software Developer</b> contributing to change the world by coding.</p>
+<p align="center">I am a <b>Software Developer</b> contributing to make the world better by coding.</p>
 
 <p align="center">I use:</p>
 
